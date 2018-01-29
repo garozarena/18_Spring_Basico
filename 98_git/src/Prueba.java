@@ -2,8 +2,8 @@
 public class Prueba {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-System.out.println("pruebamodificada");
+		System.out.println("prueba modificada");
+		System.out.println("primer cambio");
 	}
 
 }
